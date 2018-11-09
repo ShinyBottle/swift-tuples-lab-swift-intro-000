@@ -17,7 +17,7 @@
 // write your code here
 
 
-
+var person = (name: "Steve", age: 38)
 
 
 
@@ -29,7 +29,7 @@
 // write your code here
 
 
-
+print("\(person.name) is \(person.age) years old")
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-
+person.age += 1
 
 
 
@@ -53,7 +53,7 @@
 // write your code here
 
 
-
+print("Happy \(person.age)th birthday, \(person.name)!")
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-
+var someone = (name: "George", age: 22)
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-
+print("\(someone.name) is \(someone.age) years old")
 
 
 
@@ -89,7 +89,7 @@
 
 
 
-
+someone.age += 1
 
 
 
@@ -99,7 +99,7 @@
 // write your code here
 
 
-
+print("Happy \(someone.age) birthday, \(someone.name)!")
 
 
 
@@ -111,7 +111,7 @@
 // write your code here
 
 
-
+let human = (name: "Randy", age: 14)
 
 
 
